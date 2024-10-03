@@ -4,20 +4,23 @@
 
 Download : <a href="https://drive.google.com/file/d/1GDwTaEXBFD4fGiIRLKu9GnE8zHlfsPob/view?usp=drive_link">Google Drive</a>
 
+<pre>
 Labels:
-  '0 : airplane'
-  '1 : bus'
+  0 : airplane
+  1 : bus
   2 : car
   3 : fireplug
   4 : motorcycle
   5 : person
   6 : truck
+</pre>
 
 
 ## WSRD dataset (Object Detection)
 
 Download : <a href="https://drive.google.com/file/d/1S7TbYw21saXgmdTJa3r5u3auM_UMB9Lj/view?usp=drive_link">Google Drive</a>
 
+<pre>
 Labels:
   0: airplane
   1: apple
@@ -39,3 +42,4 @@ Labels:
   17: person
   18: rabbit
   19: train
+</pre>
