@@ -5,8 +5,8 @@
 Download : <a href="https://drive.google.com/file/d/1GDwTaEXBFD4fGiIRLKu9GnE8zHlfsPob/view?usp=drive_link">Google Drive</a>
 
 Labels:
-  0 : airplane
-  1 : bus
+  '0 : airplane'
+  '1 : bus'
   2 : car
   3 : fireplug
   4 : motorcycle
